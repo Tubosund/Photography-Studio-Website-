@@ -1,5 +1,5 @@
 
-THOM PHOTO STUDIO is a website showcasing the exceptional photography and graphic design services offered by your company. It's built with a focus on user experience and visual appeal, leveraging the power of HTML, CSS, JavaScript, and Bootstrap to deliver:
+THOM Photographix is a website showcasing the exceptional photography and graphic design services offered by your company. It's built with a focus on user experience and visual appeal, leveraging the power of HTML, CSS, JavaScript, and Bootstrap to deliver:
 
 Stunning Visuals: Captivating galleries and presentations to highlight your work.
 Intuitive Navigation: A user-friendly interface that makes it easy for visitors to explore your services and offerings.
@@ -14,7 +14,7 @@ A basic understanding of HTML, CSS, JavaScript, and Bootstrap
 Clone the Repository:
 Use Git to clone the project repository to your local machine.
 
-thom-photo-studio/
+thom-photographix/
     - assets/
         - css/ (Stylesheets)
         - img/ (Images)
